@@ -19,8 +19,8 @@ A simple Pong game implemented in C, playable in your terminal using ASCII graph
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/srashadddd/pong-game.git
+   cd pong-name
    ```
 
 2. **Install ncurses (if not already installed):**
@@ -65,7 +65,7 @@ README.md     # This file
 
 ## Credits
 
-- Made by [YOUR NAME or USERNAME](https://github.com/YOUR_USERNAME)
+- Made by [Srashad](https://github.com/srashadddd)
 - Inspired by the classic Pong arcade game
 
 ## License
