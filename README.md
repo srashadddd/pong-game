@@ -24,7 +24,7 @@ A simple Pong game implemented in C, playable in your terminal using ASCII graph
 
 2. **Compile the game:**
    ```sh
-   gcc pong.c -o pong -lncurses
+   gcc pong.c -o pong
    ```
 
 ## How to Play
