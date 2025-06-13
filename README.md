@@ -13,7 +13,6 @@ A simple Pong game implemented in C, playable in your terminal using ASCII graph
 ## Requirements
 
 - GCC or any C compiler
-- [ncurses library](https://invisible-island.net/ncurses/) (pre-installed on most Linux/macOS systems)
 
 ## Installation
 
@@ -23,18 +22,7 @@ A simple Pong game implemented in C, playable in your terminal using ASCII graph
    cd pong-name
    ```
 
-2. **Install ncurses (if not already installed):**
-
-   - **Ubuntu/Debian:**
-     ```sh
-     sudo apt-get install libncurses5-dev
-     ```
-   - **macOS (Homebrew):**
-     ```sh
-     brew install ncurses
-     ```
-
-3. **Compile the game:**
+2. **Compile the game:**
    ```sh
    gcc pong.c -o pong -lncurses
    ```
@@ -47,9 +35,9 @@ A simple Pong game implemented in C, playable in your terminal using ASCII graph
    ```
 
 2. **Controls:**
-   - **Up Arrow (↑):** Move paddle up
-   - **Down Arrow (↓):** Move paddle down
-   - **q:** Quit the game
+   - **W:** Move paddle up
+   - **S:** Move paddle down
+   - **Q:** Quit the game
 
 3. **Gameplay:**
    - Your paddle is on the left; AI is on the right.
