@@ -1,6 +1,6 @@
 # Terminal Pong Game in C
 
-A simple Pong game implemented in C, playable in your terminal using ASCII graphics and the [ncurses](https://invisible-island.net/ncurses/) library!
+A simple Pong game implemented in C, playable in your terminal using ASCII graphics and the [ncurses](https://invisible-island.net/ncurses/) library
 
 ## Features
 
@@ -42,7 +42,7 @@ A simple Pong game implemented in C, playable in your terminal using ASCII graph
 3. **Gameplay:**
    - Your paddle is on the left; AI is on the right.
    - Try to hit the ball back each time it comes to your side.
-   - The first to score the most points wins!
+   - The first to score the most points wins
 
 ## Project Structure
 
